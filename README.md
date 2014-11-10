@@ -10,7 +10,6 @@ Uebung7
  * Sonneblume
  * Lilie
 | Marke | Produkt |
-| :------ | :----: |
 | Coca-Cola | Erfrischungsgetränke |
 | BMW | Autos |
 | Hewlett Packard | Computer |
