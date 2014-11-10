@@ -16,3 +16,5 @@ Uebung7
 | Bayerische Motoren Werke | Fahrzeuge | 1916 | 
 | Hewlett Packard | Computer | 1939 | 
 
+*Dieser Satz ist kursiv geschrieben.*
+**Dieser Satz ist fett geschrieben.**
