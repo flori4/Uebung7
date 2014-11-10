@@ -11,7 +11,7 @@ Uebung7
  * Lilie
 
 | Marke | Produkt | 
-| :----: | :----: | 
+| :---- | :----: | 
 | Coca-Cola | Erfrischungsgetränke | 
 | BMW | Autos | 
 | Hewlett Packard | Computer |
