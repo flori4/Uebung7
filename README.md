@@ -13,5 +13,5 @@ Uebung7
 | Marke | Produkt | 
 | Coca-Cola | Erfrischungsgetränke | 
 | BMW | Autos | 
-| Hewlett Packard | Computer | 
+| Hewlett Packard | Computer |
 
