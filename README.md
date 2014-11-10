@@ -9,6 +9,7 @@ Uebung7
  * Löwenzahn
  * Sonneblume
  * Lilie
+
 | Marke | Produkt |
 | Coca-Cola | Erfrischungsgetränke |
 | BMW | Autos |
