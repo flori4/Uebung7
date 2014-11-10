@@ -19,15 +19,7 @@
 
 
 
-|Marke | Produkt | Gründung | 
-
-| :---- | :----: | ----: | 
-
-| The Coca-Cola Company | Erfrischungsgetränke | 1892 | 
-
-| Bayerische Motoren Werke | Fahrzeuge | 1916 | 
-
-| Hewlett Packard | Computer | 1939 | 
+|Marke | Produkt | Gründung | | :---- | :----: | ----: | | The Coca-Cola Company | Erfrischungsgetränke | 1892 | | Bayerische Motoren Werke | Fahrzeuge | 1916 | | Hewlett Packard | Computer | 1939 | 
 
 
 
