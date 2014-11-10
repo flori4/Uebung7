@@ -15,4 +15,8 @@ Uebung7
 | BMW | Autos |
 | Hewlett Packard | Computer |
 
-| Stadt | Land | Sprachen | |:------|:----:| --------:| | Basel | Belgien | JavaScript | | Bern  | Brasilien |  Python | | Chur | Bolivien| Ruby | 
+| Stadt | Land | Sprachen | 
+|:------|:----:| --------:| 
+| Basel | Belgien | JavaScript | 
+| Bern  | Brasilien |  Python | 
+| Chur | Bolivien| Ruby | 
