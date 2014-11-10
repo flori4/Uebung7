@@ -9,3 +9,5 @@ Uebung7
  * Löwenzahn
  * Sonneblume
  * Lilie
+|Marke|Produkt|
+|:----|:----:|
