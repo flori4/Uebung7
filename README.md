@@ -10,13 +10,8 @@ Uebung7
  * Sonneblume
  * Lilie
 
-| Marke | Produkt |
-| Coca-Cola | Erfrischungsgetränke |
-| BMW | Autos |
-| Hewlett Packard | Computer |
+| Marke | Produkt | 
+| Coca-Cola | Erfrischungsgetränke | 
+| BMW | Autos | 
+| Hewlett Packard | Computer | 
 
-| Stadt | Land | Sprachen | 
-|:------|:----:| --------:| 
-| Basel | Belgien | JavaScript | 
-| Bern  | Brasilien |  Python | 
-| Chur | Bolivien| Ruby | 
