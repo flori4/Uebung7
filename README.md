@@ -14,3 +14,5 @@ Uebung7
 | Coca-Cola | Erfrischungsgetränke |
 | BMW | Autos |
 | Hewlett Packard | Computer |
+
+| Stadt | Land | Sprachen | |:------|:----:| --------:| | Basel | Belgien | JavaScript | | Bern  | Brasilien |  Python | | Chur | Bolivien| Ruby | 
